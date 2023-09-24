@@ -7,8 +7,6 @@ b) a soma do triplo do primeiro com o terceiro.
 c) o terceiro elevado ao cubo
 
 '''
-# cria um Data Frame para armazenar iformações
-df = []
 # Solicita os numeros inteiros
 numero1 = int(input("Digite o primeiro número :"))
 numero2 = int(input("Digite o Segundo Número:"))
